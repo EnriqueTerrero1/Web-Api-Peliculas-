@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wmBwOc7R455jFCAJ7My9ibmaO+9nqy3xMHw1cwthQE0=",
+  "Hash": "ce6kNFG5nmHcnuZ6IzroMVChabiqaztl/agHkKaFLO4=",
   "Source": "PeliculaBackEnd",
   "BasePath": "_content/PeliculaBackEnd",
   "Mode": "Default",
@@ -16,23 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\actores\\0b9a6597-6b5a-4488-b906-fbbd9ad41d39.png",
-      "SourceId": "PeliculaBackEnd",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\",
-      "BasePath": "_content/PeliculaBackEnd",
-      "RelativePath": "actores/0b9a6597-6b5a-4488-b906-fbbd9ad41d39.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\actores\\0b9a6597-6b5a-4488-b906-fbbd9ad41d39.png"
-    },
     {
       "Identity": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\actores\\12e80f17-2c9a-45e5-a316-06ac9696f82a.jpg",
       "SourceId": "PeliculaBackEnd",
@@ -51,12 +34,12 @@
       "OriginalItemSpec": "wwwroot\\actores\\12e80f17-2c9a-45e5-a316-06ac9696f82a.jpg"
     },
     {
-      "Identity": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\actores\\1cef4c43-e89d-4052-a770-adc0b7523c1e.jfif",
+      "Identity": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\actores\\67cc63a1-9bd6-4f90-9957-57e46260987b.jpg",
       "SourceId": "PeliculaBackEnd",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\",
       "BasePath": "_content/PeliculaBackEnd",
-      "RelativePath": "actores/1cef4c43-e89d-4052-a770-adc0b7523c1e.jfif",
+      "RelativePath": "actores/67cc63a1-9bd6-4f90-9957-57e46260987b.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +48,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\actores\\1cef4c43-e89d-4052-a770-adc0b7523c1e.jfif"
+      "OriginalItemSpec": "wwwroot\\actores\\67cc63a1-9bd6-4f90-9957-57e46260987b.jpg"
     },
     {
-      "Identity": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\actores\\60682f8f-79f1-4d76-a59b-2521a658e41e.png",
+      "Identity": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\actores\\99c72b09-6fa2-443c-925e-db88bf86b7a0.jpg",
       "SourceId": "PeliculaBackEnd",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\",
       "BasePath": "_content/PeliculaBackEnd",
-      "RelativePath": "actores/60682f8f-79f1-4d76-a59b-2521a658e41e.png",
+      "RelativePath": "actores/99c72b09-6fa2-443c-925e-db88bf86b7a0.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\actores\\60682f8f-79f1-4d76-a59b-2521a658e41e.png"
+      "OriginalItemSpec": "wwwroot\\actores\\99c72b09-6fa2-443c-925e-db88bf86b7a0.jpg"
     },
     {
-      "Identity": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\actores\\a3967e21-e74a-466c-99ab-f338fb1e21c3.png",
+      "Identity": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\actores\\c4aa0e0a-7092-41c2-97e3-469d6f677eb1.jpg",
       "SourceId": "PeliculaBackEnd",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\",
       "BasePath": "_content/PeliculaBackEnd",
-      "RelativePath": "actores/a3967e21-e74a-466c-99ab-f338fb1e21c3.png",
+      "RelativePath": "actores/c4aa0e0a-7092-41c2-97e3-469d6f677eb1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,7 +82,75 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\actores\\a3967e21-e74a-466c-99ab-f338fb1e21c3.png"
+      "OriginalItemSpec": "wwwroot\\actores\\c4aa0e0a-7092-41c2-97e3-469d6f677eb1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\peliculas\\25fa198b-b44a-455e-92ae-351f7bbf0009.jpg",
+      "SourceId": "PeliculaBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\",
+      "BasePath": "_content/PeliculaBackEnd",
+      "RelativePath": "peliculas/25fa198b-b44a-455e-92ae-351f7bbf0009.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\25fa198b-b44a-455e-92ae-351f7bbf0009.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\peliculas\\74ecef3f-66fd-4ff5-a829-a5fe884034a6.jpg",
+      "SourceId": "PeliculaBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\",
+      "BasePath": "_content/PeliculaBackEnd",
+      "RelativePath": "peliculas/74ecef3f-66fd-4ff5-a829-a5fe884034a6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\74ecef3f-66fd-4ff5-a829-a5fe884034a6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\peliculas\\910f2a53-e1f8-4c55-ac12-620d98b59080.webp",
+      "SourceId": "PeliculaBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\",
+      "BasePath": "_content/PeliculaBackEnd",
+      "RelativePath": "peliculas/910f2a53-e1f8-4c55-ac12-620d98b59080.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\910f2a53-e1f8-4c55-ac12-620d98b59080.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\peliculas\\db3c2ad3-3da6-4352-a57c-3cf22d7ac225.jpg",
+      "SourceId": "PeliculaBackEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Enrique Terrero\\Documents\\AngularPelicula-2\\PeliculaBackEnd\\PeliculaBackEnd\\wwwroot\\",
+      "BasePath": "_content/PeliculaBackEnd",
+      "RelativePath": "peliculas/db3c2ad3-3da6-4352-a57c-3cf22d7ac225.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\peliculas\\db3c2ad3-3da6-4352-a57c-3cf22d7ac225.jpg"
     }
   ]
 }
